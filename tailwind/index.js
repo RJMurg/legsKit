@@ -14,6 +14,7 @@ module.exports = {
           red: "#FF3633",
           orange: "#FEA120",
           yellow: "#FCFC73",
+          ".logo": "url(https://raw.githubusercontent.com/rjmurg/legskit/main/assets/logos/white/logo.png)"
         },
       },
     ],
