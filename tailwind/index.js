@@ -9,8 +9,8 @@ module.exports = {
         dark: {
           ...themes.dark,
           primary: '#880000',
-          secondary: '#880000',
-          accent: '#880000',
+          secondary: '#008800',
+          accent: '#000088',
           red: "#880000",
           orange: "#880000",
           yellow: "#880000",
