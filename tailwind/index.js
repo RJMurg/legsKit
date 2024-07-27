@@ -6,17 +6,14 @@ module.exports = {
   daisyui: {
     themes: [
       {
-        light: {
-          ...themes.light,
-          primary: '#0080FF',
-          secondary: '#7E84FF',
-          accent: '#F77F00',
-        },
         dark: {
           ...themes.dark,
-          primary: '#84B1C2',
-          secondary: '#83D883',
+          primary: '#83D883',
+          secondary: '#84B1C2',
           accent: '#C185BD',
+          red: "#FF3633",
+          orange: "#FEA120",
+          yellow: "#FCFC73",
         },
       },
     ],
