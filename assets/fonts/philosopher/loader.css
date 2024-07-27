@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Philosopher';
+  src: url('https://raw.githubusercontent.com/rjmurg/legskit/main/assets/fonts/philosopher/regular/Philosopher-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Philosopher';
+  src: url('https://raw.githubusercontent.com/rjmurg/legskit/main/assets/fonts/philosopher/bold/Philosopher-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
